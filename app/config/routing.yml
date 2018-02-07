@@ -1,0 +1,8 @@
+topi_platform:
+    resource: "@TopiPlatformBundle/Controller/"
+    type:     annotation
+    prefix:   /
+
+app:
+    resource: '@AppBundle/Controller/'
+    type: annotation
